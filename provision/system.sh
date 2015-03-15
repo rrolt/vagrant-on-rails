@@ -1,6 +1,6 @@
 #! /bin/bash
 
-apt-get -y update                        > /dev/null 2>&1
+apt-get -y update                         > /dev/null 2>&1
 echo 'packages updated.'
 
 apt-get install -y curl                   > /dev/null 2>&1
