@@ -11,7 +11,7 @@ Vagrant on Rails is a light vagrant build for development on Rails
 * Rails 4.2.0
 
 ### Requirements
-* [Vagrant](vagrantup.com)
+* [Vagrant](https://vagrantup.com)
 * [Virtual Box](https://www.virtualbox.org/)
 
 ### Installation
